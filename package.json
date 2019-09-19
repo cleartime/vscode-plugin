@@ -8,7 +8,7 @@
 	"engines": {
 		"vscode": "^1.38.0"
 	},
-	"icon": "src/images/icon.png",
+	"icon": "images/icon.png",
 	"categories": [
 		"Other"
 	],
